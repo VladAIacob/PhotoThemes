@@ -1,0 +1,9 @@
+W:\Programming\Testing\PhotoThemes\PhotoThemes\bin\Debug\PhotoThemes.exe.config
+W:\Programming\Testing\PhotoThemes\PhotoThemes\bin\Debug\PhotoThemes.exe
+W:\Programming\Testing\PhotoThemes\PhotoThemes\bin\Debug\PhotoThemes.pdb
+W:\Programming\Testing\PhotoThemes\PhotoThemes\obj\Debug\PhotoThemes.csprojResolveAssemblyReference.cache
+W:\Programming\Testing\PhotoThemes\PhotoThemes\obj\Debug\PhotoThemes.Form1.resources
+W:\Programming\Testing\PhotoThemes\PhotoThemes\obj\Debug\PhotoThemes.Properties.Resources.resources
+W:\Programming\Testing\PhotoThemes\PhotoThemes\obj\Debug\PhotoThemes.csproj.GenerateResource.Cache
+W:\Programming\Testing\PhotoThemes\PhotoThemes\obj\Debug\PhotoThemes.exe
+W:\Programming\Testing\PhotoThemes\PhotoThemes\obj\Debug\PhotoThemes.pdb
